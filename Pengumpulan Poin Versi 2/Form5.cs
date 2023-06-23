@@ -49,10 +49,5 @@ namespace Pengumpulan_Poin_Versi_2
             form1.Show();
             this.Hide();
         }
-
-        internal void Show()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
